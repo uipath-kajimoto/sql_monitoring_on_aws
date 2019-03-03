@@ -1,0 +1,6 @@
+development:
+  adapter:  "sqlserver"
+  host:     "uipath-xxxxxaws.com"
+  username: "user"
+  password: "password"
+  database: "UiPath"
