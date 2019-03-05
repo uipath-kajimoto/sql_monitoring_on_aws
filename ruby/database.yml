@@ -1,0 +1,6 @@
+development:
+  adapter:  "sqlserver"
+  host:     "uipath-ysk15db.cj7eclhdppmu.ap-northeast-1.rds.amazonaws.com"
+  username: "uipathdbuser"
+  password: "Ui6Path#db%as3w0rd"
+  database: "UiPath"
